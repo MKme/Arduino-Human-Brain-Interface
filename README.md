@@ -1,5 +1,5 @@
 # Arduino-Human-Brain-Interface
-Open source Code and files for my DIY EEG interface I made to interface my 3D printed robotic arm to my brain.
+Open source Code and files for my DIY EEG interface I made to interface my 3D printed robotic arm to my brain.This HMI links the MindFlex headset to any Arduino to output serial for use in Processing or direct control of outputs.
 
 You can find the main site post here:
 http://www.mkme.org/index.php/diy-arduino-brain-interface/
